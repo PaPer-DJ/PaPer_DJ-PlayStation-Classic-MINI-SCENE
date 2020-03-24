@@ -21,6 +21,7 @@ Todos los CORES en un .ZIP a fecha (18.03.2020)
 
 ✓https://drive.google.com/open?id=1m-mXgBtDJncvbVktdpn2JjqSKh4Us4s_
 
+GITHUB de PaPer_DJ con recursos de la SCENE PlayStation Classic MINI
 
 https://github.com/PaPer-DJ/PaPer_DJ-MEGA-DRIVE-Classic-SCENE
 
