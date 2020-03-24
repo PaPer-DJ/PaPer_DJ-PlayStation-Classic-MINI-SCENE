@@ -3,14 +3,22 @@
 ▼▬▼▬▼▬ LINKS UTILES DE LA SCENE PlayStation Classic MINI▬▼▬▼▬▼
 
 ✓https://modmyclassic.com/project-eris/
+
 ✓https://modmyclassic.com/project-eris-install/
+
 ✓https://modmyclassic.com/project-eris-how-to-use/
+
 ✓https://modmyclassic.com/project-eris-mods/
+
 ✓https://modmyclassic.com/sony-playstation-classic-retroarch-cores/
+
 ✓https://modmyclassic.com/project-eris-emulation-station/
+
 ✓https://modmyclassic.com/project-eris-bluetooth-tutorial/
 
+
 Todos los CORES en un .ZIP a fecha (18.03.2020)
+
 ✓https://drive.google.com/open?id=1m-mXgBtDJncvbVktdpn2JjqSKh4Us4s_
 
 
