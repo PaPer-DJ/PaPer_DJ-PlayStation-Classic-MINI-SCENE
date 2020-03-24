@@ -17,6 +17,10 @@
 ✓https://modmyclassic.com/project-eris-bluetooth-tutorial/
 
 
+Descarga Ultimas Versiones de Project Eris:
+
+✓https://classicmodscloud.com/project_eris/
+
 Todos los CORES en un .ZIP a fecha (18.03.2020)
 
 ✓https://drive.google.com/open?id=1m-mXgBtDJncvbVktdpn2JjqSKh4Us4s_
