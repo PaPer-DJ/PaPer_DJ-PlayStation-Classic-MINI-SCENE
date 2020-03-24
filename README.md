@@ -34,6 +34,37 @@ Canal Telegram Consolas MINI:
 https://t.me/snesminiroms
 
 ------------------------------------------------------------------
+▼▬▼▬▼▬▼▬ INFO PROJECT ERIS ▬▼▬▼▬▼▬▼
+
+Las ruta dentro del pendrive debe quedar así:
+
+X:\d8781dae-c45c-4fc1-b961-e03eedebbffb
+X:\games
+X:\logs
+X:\project_eris
+X:\roms
+X:\transfer
+
+¿Donde van los CORES para RetroArch/EmulationStation?
+USB:/project_eris/opt/retroarch/config/retroarch/cores
+
+¿Y Donde van las BIOS?
+USB:/project_eris/opt/retroarch/system
+
+Resto de Rutas útiles a tener en cuenta:
+USB:/project_eris/opt/retroarch/config/retroarch/overlays (Marcos de sistemas)
+USB:/project_eris/opt/retroarch/config/retroarch/config (Overrides)
+USB:/project_eris/opt/retroarch/config/retroarch/saves 
+
+USB:/project_eris/opt/retroarch/config/retroarch/savestates 
+(He desactivado el guardado x defecto para que esta carpeta no se infle rapidamente ocupando mucha memoria sin darnos cuenta)
+
+USB:/project_eris/opt/emulationstation/.emulationstation/themes (Temas)
+USB:/project_eris/opt/emulationstation/.emulationstation/es_systems.cfg (Archivo imprescindible de Sistemas en ES)
+
+USB:/project_eris/etc/project_eris/SUP/launchers (Aquí van los PORTS y MODs)
+
+------------------------------------------------------------------
 
 ▼▬▼▬▼▬▼▬ DISCLAIMER ▬▼▬▼▬▼▬▼
 
