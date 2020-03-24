@@ -57,7 +57,7 @@ USB:/project_eris/opt/retroarch/config/retroarch/config (Overrides)
 USB:/project_eris/opt/retroarch/config/retroarch/saves 
 
 USB:/project_eris/opt/retroarch/config/retroarch/savestates 
-(He desactivado el guardado x defecto para que esta carpeta no se infle rapidamente ocupando mucha memoria sin darnos cuenta)
+(He desactivado el guardado AUTOMÁTICO x defecto para que esta carpeta no se infle rapidamente ocupando mucha memoria sin darnos cuenta, cada vez que salimos de un juego) (Reportado al Team)
 
 USB:/project_eris/opt/emulationstation/.emulationstation/themes (Temas)
 USB:/project_eris/opt/emulationstation/.emulationstation/es_systems.cfg (Archivo imprescindible de Sistemas en ES)
