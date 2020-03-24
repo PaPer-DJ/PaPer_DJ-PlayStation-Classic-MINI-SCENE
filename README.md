@@ -38,17 +38,17 @@ https://t.me/snesminiroms
 
 Las ruta dentro del pendrive debe quedar así:
 
-X:\d8781dae-c45c-4fc1-b961-e03eedebbffb
-X:\games
-X:\logs
-X:\project_eris
-X:\roms
+X:\d8781dae-c45c-4fc1-b961-e03eedebbffb 
+X:\games 
+X:\logs 
+X:\project_eris 
+X:\roms 
 X:\transfer
 
-¿Donde van los CORES para RetroArch/EmulationStation?
+¿Donde van los CORES para RetroArch/EmulationStation? 
 USB:/project_eris/opt/retroarch/config/retroarch/cores
 
-¿Y Donde van las BIOS?
+¿Y Donde van las BIOS? 
 USB:/project_eris/opt/retroarch/system
 
 Resto de Rutas útiles a tener en cuenta:
